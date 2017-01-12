@@ -1,0 +1,4 @@
+# The syntax is "<property>=<value>"
+properties:
+  - "pluginEnbled=true"
+  - "randomStuff=false"
